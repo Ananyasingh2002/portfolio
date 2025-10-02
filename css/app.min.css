@@ -3158,9 +3158,9 @@ body:not(.touch-device) .owl-item:hover .details__preview {
 .cases {
   position: relative;
   padding-top: 128px; }
-  @media only screen and (max-width: 1279px) {
+  @media only screen and (max-width: 1300px) {
     .cases {
-      padding-top: 96px; } }
+      padding-top: 96px;  } }
   @media only screen and (max-width: 767px) {
     .cases {
       padding-top: 64px; } }
@@ -3764,6 +3764,7 @@ body:not(.touch-device) .owl-item:hover .details__preview {
 
 .contacts {
   position: relative;
+  margin-top: 150px;
   margin-bottom: 182px;
   z-index: 3; }
   @media only screen and (max-width: 1279px) {
